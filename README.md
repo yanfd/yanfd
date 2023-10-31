@@ -64,6 +64,10 @@
 河北孩子不擅长说这个，我说快滚快滚。</li>
     <br/>
     <li>我也有点混乱，我特别容易感到尴尬，不善于公开的讲话，有些焦虑症而且对自己的身材不满意，15岁前没有亲过任何人，不喜欢被插入式的性爱，我被我喜欢的人伤过心，我也伤害过喜欢我的人。很多时候我觉得自己被别人误解，所以说我自己一团乱，不过我觉得所有少年都是如此。</li>
+    <li>security is not a state - it's a process
+    </li>
+    <li>This is APPLE. That's an feature, not a bug.</li>
   </ul>
+
 
 </details>
