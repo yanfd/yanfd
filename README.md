@@ -58,14 +58,13 @@
 <details>
     <summary><h3>🌃YANFD's MURMURING</h3></summary>
   <ul>
-    
-    
     <br/>
-    <li>security is not a state - it's a process
-    </li>
-    <li>This is APPLE. That's an feature, not a bug.</li>
+<li>security is not a state - it's a process
+</li>
+<li>This is APPLE. That's an feature, not a bug.</li>
   </ul>
 
 
+​    
 
 </details>
