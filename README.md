@@ -19,7 +19,7 @@
        <img src="https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B" alt="Buy me a coffee" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&amp;logo=kofi&amp;logoColor=white" style="max-width: 100%;">
      </a>
    
-     
+   
 
 
    </p>
@@ -47,13 +47,11 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-#
+
 
 
 
 ### 🌧️Stats
-
-### 💡
 
 ![yanfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanfd&show_icons=true&theme=transparent)
 
@@ -63,9 +61,6 @@
     <summary><h3>🌃YANFD's MURMURING</h3></summary>
   <ul>
     <br/>
-<li>security is not a state - it's a process
-</li>
-<li>This is APPLE. That's an feature, not a bug.</li><br/>
     <li>Ah, you were at my side all along.</li>
     <li>My true mentor.</li>
     <li>My guiding moonlight.</li>
