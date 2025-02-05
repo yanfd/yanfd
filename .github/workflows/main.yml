@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: METRICS_TOKEN
+      name: production
     permissions:
       contents: write
     steps:
