@@ -24,7 +24,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: $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
+          token: ${{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}}
 
           # Options
           user: yanfd
