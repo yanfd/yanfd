@@ -16,4 +16,4 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${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}
+          token: ${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}
