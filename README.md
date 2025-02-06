@@ -55,24 +55,41 @@
 
 
 
-### 🌧️Stats
-
-![yanfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanfd&show_icons=true&theme=transparent)
-
----
-
-<details>
-    <summary><h3>🌃YANFD's MURMURING</h3></summary>
-  <ul>
-    <br/>
-    <li>Ah, you were at my side all along.</li>
-    <li>My true mentor.</li>
-    <li>My guiding moonlight.</li>
-  </ul>
+[<img align="left" width="400" alt="这是生成的图片，无互动" src="https://github.com/yanfd/yanfd/blob/main/metrics.left.svg">](#)
+[<img align="right" width="400" alt="这是生成的图片，无互动" src="https://github.com/yanfd/yanfd/blob/main/metrics.right.svg">](#)
 
 
 
-​    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
