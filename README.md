@@ -1,11 +1,11 @@
 # [<img align="center" src="https://github.com/yanfd/yanfd/blob/main/banner.png">](#)
 
-> <div style="text-align: center;">
+<div align="center" display="flex">
+
 >   Maintainer of <a href="https://gallery.yanfd.tech/">ALMOST HUMAN GALLERY</a><br/>
 >   BLOG: <a href="https://www.yanfd.tech/">JOYLAB</a>
-> </div>
+> 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
   <img alt="Apple" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
   <img alt="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
@@ -20,9 +20,8 @@
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 </div>
-
-
 
 ---
 
