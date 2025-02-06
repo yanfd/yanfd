@@ -1,11 +1,10 @@
-# YANFD
+# [<img align="center" src="https://github.com/yanfd/yanfd/blob/main/banner.png">](#)
 
 **`Digital Alcoholic (Developer/Photographer/Creator)`**
 
-> Every human being has natural psychological needs. You need to feel you belong. You need to feel your life has meaning and purpose. You need to feel that people see you and value u. You need to feel you’ve got a future that makes sense. And if these needs can not be satisfied,
+> Maintainer of [ALMOST HUMAN GALLERY](https://gallery.yanfd.tech/)
 >
-> WE SUFFER.
->
+> News at my blog. [JOYLAB](https://www.yanfd.tech/)
 
 
 
@@ -30,12 +29,6 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<a href="https://ko-fi.com/yan365833" title="Buy me a coffee" rel="nofollow">
-
-​    <img src="https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B" alt="Buy me a coffee" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&amp;logo=kofi&amp;logoColor=white" style="max-width: 100%;">
-
- </a>
 
 </br>
 
