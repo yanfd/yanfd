@@ -12,7 +12,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.left.svg
-          user: nullqwertyuiop
+          user: yanfd
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Asia/Shanghai
@@ -39,7 +39,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
-          user: nullqwertyuiop
+          user: yanfd
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
