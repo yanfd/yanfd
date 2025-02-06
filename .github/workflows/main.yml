@@ -43,11 +43,9 @@ jobs:
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: public
-          plugin_stars: yes
-          plugin_stars_limit: 3
           plugin_habits: yes
-          
           plugin_people: yes
+          plugin_people_types: followers
           
   github-metrics2:
     runs-on: ubuntu-latest
@@ -67,6 +65,11 @@ jobs:
           plugin_anilist_user: yanfd
           plugin_anilist_sections: favorites, characters
           plugin_anilist_shuffle: yes
+          plugin_posts: yes
+          plugin_posts_source: yanfd.tech
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          
           
           
           
