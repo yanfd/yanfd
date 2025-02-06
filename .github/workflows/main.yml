@@ -37,6 +37,18 @@ jobs:
           plugin_lines: yes
           plugin_projects: yes
           plugin_projects_limit: 4
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 3
+          plugin_activity_load: 300
+          plugin_activity_visibility: public
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          plugin_habits: yes
+          
+          plugin_people: yes
+          
   github-metrics2:
     runs-on: ubuntu-latest
     environment: 
@@ -49,12 +61,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
           template: classic
-          base: header, community, repositories, metadata
+          base: ""
           config_timezone: Asia/Shanghai
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 4
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_anilist: yes
+          plugin_anilist_user: yanfd
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_shuffle: yes
+          
+          
+          
+          
           
