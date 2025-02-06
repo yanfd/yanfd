@@ -37,12 +37,6 @@ jobs:
           plugin_lines: yes
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 3
-          plugin_activity_load: 300
-          plugin_activity_visibility: public
           plugin_habits: yes
           plugin_people: yes
           plugin_people_types: followers
@@ -61,6 +55,12 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 3
+          plugin_activity_load: 300
+          plugin_activity_visibility: public
           plugin_anilist: yes
           plugin_anilist_user: yanfd
           plugin_anilist_sections: favorites, characters
