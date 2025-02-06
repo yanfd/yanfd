@@ -17,6 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.left.svg
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Asia/Shanghai
@@ -46,7 +47,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.left.svg
+          filename: metrics.right.svg
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Asia/Shanghai
