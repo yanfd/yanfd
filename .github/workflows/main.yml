@@ -70,7 +70,7 @@ jobs:
           
           plugin_music: yes
           plugin_music_provider: apple
-          plugin_music_playlist: https://embed.music.apple.com/cn/playlist/replay-2023/pl.rp-2ZZGIvDowlg0?l=en-GB
+          plugin_music_playlist: https://embed.music.apple.com/cn/playlist/favorite-songs/pl.u-DpUapRAk25?l=en-GB
           plugin_music_limit: 5
           
           
