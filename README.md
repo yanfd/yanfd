@@ -3,7 +3,7 @@
 <div align="center" display="flex">
 
 >   Maintainer of <a href="https://gallery.yanfd.tech/">ALMOST HUMAN GALLERY</a><br/>
->   BLOG: <a href="https://www.yanfd.tech/">JOYLAB</a>
+>   BLOG: <a href="https://www.yanfd.tech/">JOYLAB</a><br />
 >   Contributor of <a href="https://github.com/Soulter/AstrBot/releases/tag/v3.5.0">Astrbot v3.5,</a>   <a href="https://github.com/Done-0/Jank">Jank</a>
 
   <img alt="Apple" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
