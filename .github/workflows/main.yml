@@ -68,10 +68,7 @@ jobs:
           # plugin_activity_load: 300
           # plugin_activity_visibility: public
 
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+    
 
           # plugin_posts: yes
           # plugin_posts_source: yanfd.tech
