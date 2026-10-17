@@ -2,8 +2,8 @@
 
 <div align="center" display="flex">
 
->   Maintainer of <a href="https://gallery.yanfd.cn/">ALMOST HUMAN GALLERY</a><br/>
->   BLOG: <a href="https://www.yanfd.cn/">JOYLAB</a><br />
+>   Maintainer of <a href="https://gallery.yanfd.tech/">ALMOST HUMAN GALLERY</a><br/>
+>   BLOG: <a href="https://www.yanfd.tech/">JOYLAB</a><br />
 >   Contributor of <a href="https://github.com/AstrBotDevs/AstrBot/releases/tag/v3.5.0">Astrbot v3.5,</a>   <a href="https://github.com/Done-0/Jank">Jank</a>
 
 <table align='center'>
